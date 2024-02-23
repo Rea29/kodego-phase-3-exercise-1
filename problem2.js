@@ -10,7 +10,6 @@ function checkOdd(array) {
   return true; // If no odd number is found, return false
 }
 
-// Example usage:\
 console.log(checkOdd([2, 4, 6, 8]));
 
 console.log(checkOdd([10, 11, 14, 16]));
